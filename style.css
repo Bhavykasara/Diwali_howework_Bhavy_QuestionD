@@ -1,0 +1,70 @@
+body {
+    text-align: center;
+    background-image: url("https://b.zmtcdn.com/mx-onboarding-hero87f77501659a5656cad54d98e72bf0d81627911821.webp");
+    background-size: 100%;
+}
+
+.ul_tag {
+    list-style:none;
+    background-color: black;
+    color: white;
+}
+
+.lis {
+    float: left;
+    margin-left: 3%;
+    color: white;
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+}
+
+#fb {
+    height: 45px;
+    width: 100%;
+    padding: 0.5%;
+    position: fixed;
+    top: 0;
+}
+
+#heading {
+    color: white;
+    font-family: 'Fredoka One', cursive;
+    margin-top: 7.5%;
+    font-size: 80px;
+}
+
+#pizzafirst {
+    size: 200px;
+    border-radius: 10%;
+}
+
+.separaters {
+    width: 100%;
+    color: white;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.hau {
+    color: white;
+    font-family: 'Fredoka One', cursive;
+    font-size: 80px;
+    margin-bottom: 2.5%;
+}
+
+.dli {
+    color: white;
+    font-size: 40px;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.ri {
+    border-radius: 5%;
+    width: 800px;
+    height: 500px;
+    margin-bottom: 5%;
+}
